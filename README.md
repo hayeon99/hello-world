@@ -1,2 +1,3 @@
 # hello-world
-1976377 hayeon Jo
+
+Hello. I've just made a first repository and a branch!
